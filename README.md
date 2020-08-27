@@ -6,19 +6,19 @@ Simple Golang API Rest dockerized.
 ## Build Go app
 
 ```
-$ simple-api/bin/go-build-app.sh
+$ golang-dockerized-api-rest/bin/go-build-app.sh
 ```
 
 ## Build docker container
 
 ```
-$ simple-api/docker/docker-build.sh
+$ golang-dockerized-api-rest/docker/docker-build.sh
 ```
 
 ## Run docker container
 
 ```
-$ simple-api/docker/docker-run.sh <container-name> <port> <env-variables>
+$ golang-dockerized-api-rest/docker/docker-run.sh <container-name> <port> <env-variables>
 ```
 
 ## Test
