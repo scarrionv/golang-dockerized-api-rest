@@ -26,4 +26,6 @@
 ### Intellij ###
 .idea/
 
+
+# Binaries
 /dist
